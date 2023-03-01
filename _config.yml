@@ -32,8 +32,9 @@ color:
 # Footer settings
 footer:
   copyright: Dr. Henry Jekyll
-  location: location
+  location: Location
   social: Github
+  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -43,6 +44,9 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: University of the Philippines Diliman, Quezon City
+
+# Credits content
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown

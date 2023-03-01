@@ -32,8 +32,8 @@ color:
 # Footer settings
 footer:
   copyright: Dr. Henry Jekyll
-  location: Location
-  social: Github
+  location: Our Location
+  social: Our Github
   credits: Special Thanks To
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)

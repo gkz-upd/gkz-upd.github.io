@@ -11,5 +11,5 @@ description: "<strong>Research question: </strong> <br /> Which publications tri
 
 <strong> Null Hypothesis: </strong> <br /> The publication of Disinformed news has NO correlation with the sudden spike in Mis/Disinformed tweets regarding Leni's alleged allegiance the CPP-NDA-NDF. <br /> <br />
 
-<em> Action Plan: </em> <br /> Analyze surges in fake tweets and compare dates with publication of disinformed news"
+<strong> Action Plan: </strong> <br /> Analyze surges in fake tweets and compare dates with publication of disinformed news"
 ---
